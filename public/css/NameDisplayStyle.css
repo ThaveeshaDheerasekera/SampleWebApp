@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main-container {
+    width: 50vw;
+    background-color: #D3D3D3;
+}
+
+.edit-form {
+    display: none;
+}
+
+/*
+h1,
+h2,
+h3 {
+    padding: 20px 0;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    padding: 0 5px;
+    table-layout: fixed;
+}
+
+.table {
+    padding: 0;
+    margin-bottom: 20px;
+    width: calc(100vw - 20px);
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#message {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input,
+.update {
+    width: 45vw;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: 10px 0;
+}
+
+input[type=submit] {
+    background-color: #299617;
+    border: 0;
+}
+*/
